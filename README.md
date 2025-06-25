@@ -1,4 +1,11 @@
 ## Hi, I'm Charniakou Artsiom 👋
+
+I'm passionate about building robust, scalable systems and diving deep into backend technologies like Spring, microservices, and asynchronous processing.
+
+- 🔭 I’m currently focused on expanding my knowledge in distributed systems.
+- 🌱 I’m learning about best practices in software architecture and design patterns.
+- 📫 How to reach me: [artem36443@gmail.com], [LinkedIn](https://www.linkedin.com/in/artem-charniakou-08b050208/), [Telegram](@Ikn9zI)
+  
 <!--
 **Artem-kn9z/Artem-kn9z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
