@@ -1,4 +1,4 @@
-## Hi, I'm Charniakou Artsiom 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5006&pause=1000&color=25FF00&center=true&width=435&height=55&lines=Hi%2C+I'm+Charniakou+Artsiom+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm passionate about building robust, scalable systems and diving deep into backend technologies like Spring, microservices, and asynchronous processing.
 
